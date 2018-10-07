@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mip-ödev", "mip-ödev\mip-ödev.csproj", "{F19379D0-8020-44C7-9FE1-7A101A25FCA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F19379D0-8020-44C7-9FE1-7A101A25FCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19379D0-8020-44C7-9FE1-7A101A25FCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19379D0-8020-44C7-9FE1-7A101A25FCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19379D0-8020-44C7-9FE1-7A101A25FCA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {871A2C57-2EB5-4360-98E9-0153AFEE39B5}
+	EndGlobalSection
+EndGlobal
